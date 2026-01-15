@@ -2,3 +2,4 @@ torch
 einops
 numpy
 lightning
+matplotlib

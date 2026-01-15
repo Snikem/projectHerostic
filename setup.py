@@ -17,6 +17,7 @@ setup(
         "tqdm",
         "einops",
         "numpy",
+        "matplotlib",
     ],
     python_requires=">=3.8",
 )
